@@ -70,6 +70,8 @@ This project provides a user-friendly graphical interface to tokenize Markdown f
 - Estimation of cost for using OpenAI models
 - Output results to a CSV file
 
+![Example output](assets/example_output.png)
+
 ## Roadmap
 
 - Support for additional file formats
