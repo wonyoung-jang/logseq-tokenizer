@@ -34,13 +34,13 @@ This project provides a user-friendly graphical interface to tokenize Markdown f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/logseq-markdown-tokenizer.git
+   git clone https://github.com/yourusername/logseq-tokenizer.git
    ```
 
 2. Navigate to the cloned directory:
 
    ```bash
-   cd logseq-markdown-tokenizer
+   cd logseq-tokenizer
    ```
 
 3. Install the required Python packages:
